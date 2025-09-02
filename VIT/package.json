@@ -10,9 +10,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+   "dependencies": {
+  "react": "^18.3.1",
+  "react-dom": "^18.3.1",
+    "swiper": "^11.2.6"
+  },
     "swiper": "^11.2.6"
   },
   "devDependencies": {
